@@ -8,9 +8,11 @@
 }
 .heading-primary{
     font-size: 4.4rem;
+    /* margin-bottom: 5rem; */
 }
 .gallery{
     grid-template-columns: repeat(2,1fr);
+    /*  */
 }
 }
 

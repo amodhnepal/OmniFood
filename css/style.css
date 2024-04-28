@@ -25,6 +25,7 @@ body{
     font-weight: 400;
     color: #555;
     /* only works if there is nothing absolute positioned to the body */
+    /* horizontal movement gets locked */
     overflow-x: hidden;
 }
 .heading-primary,.heading-secondary{
